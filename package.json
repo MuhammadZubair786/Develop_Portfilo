@@ -9,6 +9,7 @@
     "@wellyshen/use-web-animations": "^0.5.11",
     "aos": "^2.3.4",
     "bootstrap": "^4.5.3",
+    "firebase": "^8.2.7",
     "ityped": "^1.0.3",
     "mdbreact": "^5.0.1",
     "react": "^17.0.1",
