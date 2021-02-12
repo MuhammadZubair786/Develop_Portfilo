@@ -96,6 +96,7 @@ export default function About() {
             I'm a Full Stack Developer and Also Graphics Designer Fast load times 
             and lag free interaction, my highest priority. My layouts will work on any device, 
             big or small. 
+            
             Websites don't have to be static, I love making pages come to life. 
             I complete My Work on Time.
             I am Not any Excuse About My Work.I'm Serious With My work
